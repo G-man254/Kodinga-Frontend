@@ -44,7 +44,7 @@ export default function Home() {
   }, []);
 
   return (
-    <main className="bg-[#86efac] h-full w-full text-black">
+    <main className="bg-gray-200 h-full w-full text-black">
       <div className="flex gap-[20px] w-full">
         <div>
           <Displayer />
