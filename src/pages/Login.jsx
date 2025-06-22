@@ -12,7 +12,7 @@ export default function Login() {
           width: "100vw",
           height: "100vh",
           backgroundImage:
-            "url('/pexels-franco-monsalvo-252430633-16242030.jpg')",
+            "url('images/pexels-franco-monsalvo-252430633-16242030.jpg')",
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat",
