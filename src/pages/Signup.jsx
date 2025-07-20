@@ -59,7 +59,7 @@ export default function Login() {
             <Label htmlFor="Password" text="Password" />
             <Input type="password" name="pass" />
             <small className="text-[12px] text-gray-300">
-              Minimuum length is 8 characters
+              Minimum length is 8 characters
             </small>
           </FormSpacer>
 
